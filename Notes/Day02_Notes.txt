@@ -1,0 +1,70 @@
+  Day 02
+  Topic : Operators in c#
+  Learned :
+  1) Arithmetic Operators
+  + - * / %
+  
+  2)Comparison operators
+  > < == != >= <= 
+  
+  Practical Created : Calculator Program
+  
+  Important : 
+	1) Console.ReadLine()
+		take input from user.
+	2) Console.Convert.ToInt32()
+		Convert string input into integer.
+  
+  Interview Questions:
+  
+  1) What are operators?
+  --> Operators are symbols used to perform operations on values.
+  
+  2) Difference between = and ==?
+  --> = Assignment Operator
+	  == Comparison operator
+	  
+  3) What does % operator do?
+  --> Return reminder value.
+  
+  4)Explain arithmetic operators.
+Answer: Arithmetic operators (+, -, *, /, %) are used to perform mathematical calculations.
+
+5) Difference between / and %.
+Answer: / returns the quotient, while % returns the remainder after division.
+
+Example:
+
+10 / 3 = 3
+10 % 3 = 1
+
+6)What is the use of Convert.ToInt32()?
+Answer: Convert.ToInt32() converts a value (such as a string) into an integer (int).
+
+7)What happens when we divide an integer by zero?
+Answer: Dividing an integer by zero throws a DivideByZeroException at runtime.
+
+Example:
+
+int a = 10;
+int b = 0;
+int c = a / b;
+
+8)Difference between && and ||.
+Answer: && (AND) is true only if both conditions are true, while || (OR) is true if at least one condition is true.
+
+Example:
+
+(10 > 5 && 8 > 3)   // True
+(10 > 5 || 8 < 3)  
+  
+  
+  Interview Trick to Remember
++ - * / % → Math Operators
+= → Assign
+== → Compare
+&& → Both True
+|| → Any One True
+/ → Quotient
+% → Remainder
+Convert.ToInt32() → String → int

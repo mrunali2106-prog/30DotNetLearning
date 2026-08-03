@@ -1,0 +1,21 @@
+Error
+
+Forgot break statement.
+
+Result
+
+Wrong case executed.
+
+Solution
+
+Added break.
+
+----------------
+
+Error
+
+Entered letter.
+
+Solution
+
+Entered numeric value.

@@ -1,0 +1,15 @@
+Day 03 Errors
+
+Error:
+Entered letters instead of numbers.
+
+Solution:
+Use numeric input.
+
+---------------------
+
+Error:
+Forgot braces { }
+
+Solution:
+Added opening and closing braces.

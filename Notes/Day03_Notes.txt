@@ -1,0 +1,39 @@
+Day 03
+
+Topic : If-Else Statement
+1)if
+2)else
+3)else if
+
+programs:
+1)Even-Odd 
+2)Voting Eligiblity
+3)Login System
+4)Grade Calculator
+
+Important:
+if
+Executes code when condition is true.
+
+else
+Executes when condition is false.
+
+else if
+Checks another condition if the previous one is false.
+
+Interview Questions:
+1) What is if statement?
+-> A decision making statement.
+2) Difference between if and else if?
+-> if checks the first condition.
+else if checks the next condition if the previous one is false.
+3)What is &&?
+-> Logic AND Operator.
+4) What is ||?
+-> Logic OR Operator.
+5) What is the purpose of the else block?
+-> The else block executes when the if condition is false.
+6) Can we use an if statement without an else?
+-> Yes, an if statement can be used without an else block.
+7) What happens if all conditions are false?
+->

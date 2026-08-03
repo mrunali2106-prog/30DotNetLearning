@@ -1,0 +1,20 @@
+Day 02 Errors
+
+
+Error:
+Division by zero.
+
+
+Solution:
+Check denominator before division.
+
+
+----------------
+
+
+Error:
+Input conversion error.
+
+
+Solution:
+Used Convert.ToInt32().

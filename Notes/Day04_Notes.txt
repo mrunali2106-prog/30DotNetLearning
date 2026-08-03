@@ -1,0 +1,36 @@
+Day 04 Switch case
+ 
+ Learned
+ 1) switch 
+ 2) break
+ 3) case
+ 4) default
+ 
+ if
+ best for ranges
+ example
+ Age>=18
+ marks > 35
+ switch
+ best for exact values
+ example
+ 1
+ 2
+ 3
+ 4
+ 
+ 
+ interview questions
+ 1) What is a switch statement?
+ -> switch makes menu driven programs easier to read when checked difference.
+ 
+ 2)When should you use switch instead of if-else?
+ ->Use switch when you need to compare one variable against multiple fixed values.
+ 
+ 3)What is the purpose of break?
+ ->break is used to exit the current case after its code has executed.
+ 
+ 4)What is the purpose of default?
+ -> The default block executes when no case matches the switch expression.
+ 
+ 5)

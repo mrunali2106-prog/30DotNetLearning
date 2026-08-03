@@ -1,0 +1,9 @@
+Error
+Forgot semicolon.
+solution
+Added semicolon.
+--------------------------
+Error
+Variable name typed incorrectly.
+Solution
+Corrected spelling.
