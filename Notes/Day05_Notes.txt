@@ -1,0 +1,30 @@
+Day 5 
+topic : loops
+types:
+	1)for
+	2) while
+	3) do_while
+	4) foreach 
+
+When to use
+1) for - known number of repetitions.
+2) While - condition based repetitions
+3) do_while - run at least once.
+4) foreach - used with array and collections.
+
+Programs completed
+1) print 1 to 10
+2) even number
+3) Multiplication table
+4) while loop
+5) do while
+6) factorial
+7) foreach
+
+Important
+
+Infinite Loop
+example
+for(;;)
+{
+}
