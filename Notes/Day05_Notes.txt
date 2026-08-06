@@ -28,3 +28,34 @@ example
 for(;;)
 {
 }
+
+Interview Questions:
+1)What is loop?
+->A loop is used to execute a block of code repetedly until condition becomes true.
+
+2)Difference between for and while?
+-> for is used when the number of iteration is known ,while while is used when number of iteration is unknown.
+
+3)Difference between While and do_while
+->While checks the condition before execution,where as do_while executes the code first and checks the condition afterward.
+
+4)What is an infinite loop?
+->An infinite loop is loop that never ends 	because its condition aways remains true.
+
+5)what is foreach used for?
+->foreach is used to iterate through each element of an array or collection.
+
+6)can foreach modify array element?
+->no,the iteration variable in a foreach loop is read only and can not be assigned new value.
+
+7)Which loop is best when you know the number of iterations?
+->The for loop is best when the number of iterations is known.
+
+8) Which loop always executes at least once?
+->The do-while loop always executes at least once.
+
+9) What happens if you forget i++ in a loop?
+->The loop may become an infinite loop because the loop variable never changes.
+
+10) Why are loops important in programming?
+-> Loops help execute repetitive tasks efficiently, reducing code duplication and making programs easier to maintain.

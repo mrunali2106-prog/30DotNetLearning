@@ -1,0 +1,29 @@
+1) What is a nested loop?
+->A nested loop is a loop inside another loop.
+
+2)2) Why do we use nested loops?
+-> Nested loops are used to solve problems involving rows and columns, such as patterns, tables, and matrices.
+
+3) Which loop prints rows?
+->The outer loop prints the rows
+
+4) Which loop prints columns?
+-> The inner loop prints the columns.
+
+5) What is the difference between Console.Write() and Console.WriteLine()?
+-> Console.Write() prints on the same line, while Console.WriteLine() prints and moves the cursor to the next line.
+
+6) Can a for loop be nested inside a while loop?
+-> Yes, any type of loop can be nested inside another loop.
+
+7) How many times does the inner loop execute?
+-> The inner loop executes completely for each iteration of the outer loop.
+
+8) What happens if the inner loop condition is incorrect?
+->The pattern may print incorrectly, or the program may enter an infinite loop if the condition never becomes false.
+
+9) Where are nested loops commonly used?
+->Nested loops are commonly used for pattern printing, arrays, matrices, tables, and games.
+
+10)Why are pattern programs asked in interviews?
+-> Pattern programs test your understanding of loops, nested loops, logic, and problem-solving skills.
