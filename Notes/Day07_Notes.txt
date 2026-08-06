@@ -1,0 +1,31 @@
+Array
+
+→ Stores multiple values of same data type.
+
+Index
+
+→ Starts from 0.
+
+Length
+
+→ Total elements.
+
+for Loop
+
+→ Best when index is needed.
+
+foreach Loop
+
+→ Best for reading all elements.
+
+Maximum
+
+→ Compare with current max.
+
+Minimum
+
+→ Compare with current min.
+
+Linear Search
+
+→ Check each element one by one.

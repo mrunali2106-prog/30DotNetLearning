@@ -1,0 +1,18 @@
+Day 05 Errors
+
+Error:
+Forgot i++
+
+Result:
+Infinite Loop
+
+Solution:
+Added increment
+
+------------------
+
+Error:
+Used <= incorrectly
+
+Solution:
+Checked loop condition
