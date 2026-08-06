@@ -1,0 +1,12 @@
+DAY 8 - METHODS
+
+1. Method = Block of reusable code.
+2. Reduces duplicate code.
+3. Makes applications clean and maintainable.
+4. Parameters receive values.
+5. Arguments are values passed to methods.
+6. void returns nothing.
+7. Non-void returns a value using return.
+8. Method Overloading = Same method name with different parameters.
+9. Methods are heavily used in ASP.NET Core (Controllers, Services, Repositories).
+10. Always write small, reusable methods.
