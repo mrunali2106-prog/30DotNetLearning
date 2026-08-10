@@ -1,0 +1,12 @@
+DAY 9 - EXCEPTION HANDLING
+
+1. Exception is a runtime error.
+2. try contains risky code.
+3. catch handles exceptions.
+4. finally always executes.
+5. throw creates an exception manually.
+6. Custom exceptions improve code readability.
+7. Handle specific exceptions whenever possible.
+8. Exception handling prevents application crashes.
+9. Use meaningful error messages.
+10. Avoid empty catch blocks.

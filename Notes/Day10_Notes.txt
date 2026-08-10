@@ -1,0 +1,10 @@
+Day 10 OOPs( classes and objects)
+
+1) oop stand for object-oriented programming.
+2) A class is a blueprint.
+3) An object is an instance of a class.
+4) A class contains fields and methods.
+5) Use the new keyword to create objects.
+6) one class can have many objects.
+7) objects represent real-world entities.
+8) oop improves code reusability and maintainability.
