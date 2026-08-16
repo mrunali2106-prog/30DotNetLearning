@@ -1,0 +1,4 @@
+﻿interface ISavable
+{
+    void Save();
+}
