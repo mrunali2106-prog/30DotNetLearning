@@ -1,0 +1,54 @@
+Day 18 LINQ
+
+1) What is LINQ?
+->Language Integrated Query.
+->LINQ is a feature in c# used to query and filter data easily.
+LINQ can work with :
+1)Array  2)Lists  3) Collections  4) Database data  5) Entity Framework Core
+
+2)What does LINQ stand for?
+->Language Integrated Query.It allows us to query and manipulate collections or database data using c# syntax.We can use methods like Where,Select,OrderBy,FirstOrDefault and Count to filter,select and retrieve data.
+
+3)Why do we use LINQ?
+->linq is useful because it makes data operations:
+->easier,shorter,more readable,easier to maintain.
+
+4)What is where()?
+->Where() is used to filter data based on a condition.
+
+5)What is Select()?
+->Select() is used to select or transform data.
+
+6)What is FirstOrDefault()?
+->FirstOrDefault() returns the first matching element.
+
+7)What is OrderBy()?
+->OrderBy() sorts data in ascending order.
+
+8) What is Any()?
+->Any checks whether at least one element exist that satisfies a condition.
+
+9)what is Count()?
+->Count() returns the number of elements.
+
+10)Difference between Where() and Select()?
+-> where() used for filtering.
+->select() used for selecting / transforming.
+
+11)Difference between First() and FirstOrDefault()?
+->First() returns the first element.
+->First() throws an exception when no element is found, whereas FirstOrDefault() returns the default value. 
+
+12)Difference between FirstOrDefault() and SingleOrDefalut()?
+->FirstOrDefault() Returns the first matching record.
+->SingleOrDefault() Expects zero or one matching record.
+
+13) Difference between OrderBy() and OrderByDescending()?
+-> OrderBy() Ascending order.
+-> OrderByDescending() Descending order.
+
+14)What does ToList() do?
+->ToList() converts the LINQ result into a List<T>.
+
+15) What is lambda expression?
+-> A lambda expression is a short way of writing a function.

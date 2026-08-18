@@ -1,1 +1,120 @@
+ Day 01
+ Topic - variable and Data Types
  
+ Learned
+ 
+ 1) string
+ 2) int
+ 3) double
+ 4) char
+ 5) bool
+ 
+ Program :- stored employee information.
+ Output :- Display all values on the screen.
+ 
+ Errors :- No errors.
+  
+ Interview Questions
+ 
+ 1) what is a variable ?
+ --> A variable stroes data in memory.
+ 
+ 2) Difference between int and double?
+ --> int store whole numbers.
+ --> double store decimal values.
+ 
+ 3) why do we use data types?
+ --> Data types tell c# what kind of data a variable will store.
+ 
+ 4) Difference between char and string?
+ --> char store only one character.
+ --> string stores multiple character.
+ 
+ 5) what is boolean used for?
+ --> bool stores only two values.
+ 
+ 6) what is purpose of Program.cs?
+ --> is the starting point of a C# application.
+ 
+ 7) what is a .sln file?
+ --> .sln means Solution file.
+ it manage one or more projects together.
+ ex: MyCompany.sln
+       |
+       |
+       |---- Web Project
+       |
+       |---- API Project
+       |
+       |---- Database Project
+	   
+8) what is .csproj file?
+--> .csproj means c# Project file.
+--> it contains project information.
+
+9) Why shouldn't we edit bin and obj folders?
+-->bin folder
+
+Contains compiled output.
+
+Example:
+
+bin
+ |
+ |-- Debug
+ |-- Release
+     |
+     MyApplication.dll
+
+After build, C# creates these files.
+
+obj folder
+
+Contains temporary build files.
+
+Example:
+
+obj
+ |
+ |-- project.assets.json
+ |-- generated files
+
+Why avoid editing?
+
+Because:
+
+They are automatically generated Changes can be overwritten They are not source code 
+
+Your actual code:
+
+MyProject
+ |
+ |-- Program.cs
+ |-- Student.cs
+ |-- Controller
+ |-- Models
+
+Not:
+
+bin
+obj
+
+
+10) What does Console.WriteLine() do?
+---> Definition: Console.WriteLine() displays output on the console screen.
+
+Interview Quick Revision Trick
+===================================
+Remember:
+Variable  → Store Data
+Data Type → Type of Data
+int       → Whole Number
+double    → Decimal Number
+char      → One Character
+string    → Text
+bool      → True/False
+Program.cs → Starting Point
+.sln      → Solution Container
+.csproj   → Project Details
+bin/obj   → Generated Files
+WriteLine → Print Output
