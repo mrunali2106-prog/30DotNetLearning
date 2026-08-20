@@ -1,0 +1,48 @@
+Day 19 Linq
+ Must Remember:
+ 1) Where() ->Filter 
+ 2) Select() ->Select data
+ 3) OrderBy() ->Ascending
+ 4) OrderByDescending() -> Descending
+ 5) First() ->First item
+ 6) FirstOrDefault() -> first or default
+ 7) Any() ->  check exists
+ 8) Count() -> count
+ 9) Sum() -> Total 
+ 10) Average() -> Average
+ 
+ => = Lambda Expression
+--------------------------------------------------------------- 
+Collection
+	|
+where()   -> filter
+	|
+OrderBy() ->Sort
+	|
+Select()  -> choose
+	|
+First()   -> get one
+ -----------------------------------------------------------------------------------
+ 1) What is Linq?
+ -> Linq is used to query and manipulate data is c#.
+ 
+ 2) What does Where() do?
+ -> It filter data based on a condition.
+ 
+ 3) What does Select() do?
+ -> It selects or transform data.
+ 
+ 4) Difference between First() and FirstOrDefault()?
+ -> First() can throw an exception if there is no item.
+ -> FirstOrDefault() return the default value when no item exists.
+ 
+ 5) what does Any() do?
+ -> It checks whether at least one item satisfies a condition.
+ 
+ 6) What is a lamda expression?
+ -> n => n > 10
+ 
+ 7) Why is Linq important in Asp.net core?\
+ ->Linq is commonly used to filter,sort,select and query data especially with Entity framework Core.
+ 
+ 

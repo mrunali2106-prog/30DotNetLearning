@@ -1,0 +1,36 @@
+Day 21 Dictionary
+
+Dictionary=key->value
+Student ID -> Student Name
+Product ID -> Product Name
+Employee ID ->Employee Name
+
+Remember: Add()->ContainsKey()->TryGetValue()->Remove()->Count
+
+1)What is Dictionary in c#?
+->Dictionary is a collection that stores data in key-value pairs.
+
+2)Can Dictionary have duplicate keys?
+->keys must be unique.
+
+3)Can Dictionary have duplicate values?
+->yes,is allowed.
+
+4)What is ContainsKey()?
+->It checks whether a particular key exists.
+
+5)What is TryGetValue()?
+->It safely searches for a key and return its value if the key exists.
+
+6)How do you remove an item?
+->students.Remove(101);
+
+7)How do you get the number of items?
+->students.Count
+
+8)How do you loop through Dictionary?
+->foreach(var item in students)
+  {
+	Console.WriteLine(item.key);
+	Console.WriteLine(item.Value);
+  }

@@ -1,4 +1,14 @@
 Day 18 LINQ
+---------------------------------------
+What I Learned:
+1)Linq 2)Where() 3)Select()  4)FirstOrDefault() 5)OrderBy 
+6)Any() 7)Count() 8) Average()
+
+*Important:
+Where =filter
+Select =choose data
+OrderBy=sort
+Any=check existence
 
 1) What is LINQ?
 ->Language Integrated Query.
@@ -52,3 +62,7 @@ LINQ can work with :
 
 15) What is lambda expression?
 -> A lambda expression is a short way of writing a function.
+
+16)How is LINQ used with Entity Framework Core?
+-> This is very important for ASP.NET Core interviews.
+Entity Framework Core allows us to work with a database using C# objects.
