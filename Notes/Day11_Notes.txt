@@ -1,0 +1,30 @@
+Constructor
+
+- Special method
+- Same name as class
+- No return type
+- Automatically called when object is created
+
+Types
+
+- Default Constructor
+- Parameterized Constructor
+- Constructor Overloading
+
+this Keyword
+
+- Refers to current object
+- Resolves naming conflicts
+
+Properties
+
+- get
+- set
+- Auto Property
+
+Encapsulation
+
+- Data Hiding
+- Private fields
+- Public Properties
+- Validation before storing data

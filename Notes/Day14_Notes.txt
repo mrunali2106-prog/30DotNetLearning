@@ -1,0 +1,56 @@
+Day 14 Abstraction and Interface
+
+1)What is Abstraction?
+->Abstraction means hiding unnecessary implementation details and showing only essential functionality.
+->Abstraction is an oop concept that hides implementation details and exposes only the required functionality.
+
+2)Abstract Class
+->An Abstract class declared using the abstract keyword.
+
+3)Abstract Method
+-> An abstract method has the abstract keyword.does not have a body.must be implemented by the derived class.
+
+4) what is interface?
+->An interface defines a contract.
+->In C# interface normally start with "I"
+
+5)Difference Abstract Class vs Interface
+->Abstract class uses abstract class.
+->Interface uses interface
+
+->can contain fields.
+->Normally defines a contract.
+
+->Can contain constructors.
+->No instance constructor.
+
+->can contain constructors.
+->can define members that implementing classes must provide.
+
+->Abstract supports inheritance.
+->interface supports implementation.
+
+->can contain implemented methods.
+-> can define members that implementing classes must provide.
+
+->Abstract class inherit one class.
+->A class can implement multiple interfaces.
+
+->used for closely related classes.
+->used for common behavior.
+--------------------------------------
+Easy memory trick
+
+Abstract Class = IS-A relationship
+
+Example:
+
+Car IS A Vehicle
+
+Interface = CAN-DO relationship
+
+Example:
+
+Printer CAN Print
+Scanner CAN Scan
+

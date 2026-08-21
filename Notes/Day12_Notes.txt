@@ -1,0 +1,56 @@
+# Day 12 - Inheritance
+
+## Definition
+
+Inheritance allows a child class to reuse members
+of a parent class.
+
+## Important Terms
+
+Parent = Base Class
+Child = Derived Class
+
+## Syntax
+
+class Child : Parent
+{
+}
+
+## Types
+
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+
+## base Keyword
+
+Used to access parent class members.
+
+Example:
+
+base.Display();
+
+## Constructor
+
+Parent constructor executes before child constructor.
+
+Example:
+
+Manager(string name) : base(name)
+
+## Method Overriding
+
+Parent:
+
+virtual
+
+Child:
+
+override
+
+## Benefits
+
+- Code Reusability
+- Less Duplicate Code
+- Maintainability
+- Better Organization

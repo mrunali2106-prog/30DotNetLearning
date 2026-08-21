@@ -1,0 +1,25 @@
+Day 15 Polymorphism
+
+1)What is Polymorphism?
+->Polymorphism=Many forms
+In c# polymorphism means one method or object can behave in differnet ways.
+
+There are two main types:
+1)Compile time polymorphism->Method Overloading
+2)Runtime polymorphism->Method overriding
+
+2)Method Overloading
+->It means same method name but differnet parameters.
+
+3)Method overriding
+->A child class provides its own implementation of a method inherited from the parent class.
+
+4) Virtual keyword
+->virtual is used in the parent class.
+->This method can be overridden by a child class.
+
+5)override keyword
+->override is used in the child class.
+
+6)Runtime polymorphism
+->A parent class reference points to a child class object and the overridden method is selected at run time.

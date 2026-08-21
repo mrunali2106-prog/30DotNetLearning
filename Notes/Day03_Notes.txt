@@ -36,4 +36,4 @@ else if checks the next condition if the previous one is false.
 6) Can we use an if statement without an else?
 -> Yes, an if statement can be used without an else block.
 7) What happens if all conditions are false?
-->
+-> If all conditions are false, the else block runs if it is present. If there is no else block, the program skips the conditional statements and continues executing the remaining code.

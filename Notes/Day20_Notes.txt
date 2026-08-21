@@ -1,0 +1,29 @@
+Day 20 List + Linq
+
+1)What is List<T>?
+->List<T> is a generic collection used to store multiple objects
+or values dynamically.
+
+2)Why use List instead of Array?
+->Because a List can dynamically increase or decrease in size.
+
+3)What does Add() do?
+->It adds an item to the list.
+
+4)What does Remove() do?
+-> it removes an item from the list.
+
+5)What does Contains() do?
+->It checks whether a particular item exists.
+
+6)What is Count?
+-> It tells us how many items are currently present in the list.
+
+7)can we use Linq with list?
+->this is very common.
+students.where(s=>s.Marks >=60);
+
+
+create->Add->Display->Remove->Contains->Count->LINQ
+
+List+Linq=c#->List->Linq->Entity Framework Core ->Database->Crud ->Asp.net Core web Api/MVC

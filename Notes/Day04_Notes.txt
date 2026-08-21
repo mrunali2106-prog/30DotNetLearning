@@ -33,4 +33,13 @@ Day 04 Switch case
  4)What is the purpose of default?
  -> The default block executes when no case matches the switch expression.
  
- 5)
+ 5) What happens if you omit break?
+ -> In C#, omitting break (without another jump statement like return or throw) causes a compile-time error because control cannot fall through to the next non-empty case.
+ 
+ 6) Can a switch work with strings in C#?
+ -> Yes, C# allows switch statements to work with string values.
+ 
+ 7)When is if-else a better choice than switch?
+ -> Use If else when checking ranges,comparisons or complex logical conditions.
+ 
+ 8)

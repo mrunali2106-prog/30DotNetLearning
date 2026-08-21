@@ -1,0 +1,38 @@
+Day 13 Polymorphism
+
+## Definition - Polymorphism means one name can have many forms.
+## types
+1)Compile-Time Polymorphism
+2)Runtime Polymorphism
+
+## Compile-Time Achived using method overloading.
+Example:
+
+Add(int,int)
+Add(int,int,int)
+Add(double,double)
+
+## Runtime Polymorphism achieved using method overriding.
+
+Parent: virtual
+child : override
+
+Example:
+Animal animal =new Dog();
+animal.Sound();
+
+##upcasting
+Dog object store in Animal reference.
+Animal animal=new Dog();
+
+##downcasting
+Animal reference converted to Dog.
+Dog dog=(Dog) animal;
+
+##is checks object type.
+
+##as Performs safe type Conversion 
+
+## important
+Overloading=compile time
+overriding=Runtime
