@@ -1,0 +1,48 @@
+Day 22 Stack
+->Stack is a collection.
+->Stack follows LIFO.
+->LIFO = Last in first out.
+
+Important methods:
+
+Push() = Add item
+Pop() = Remove top item
+Peek() = view top item
+Count = Number of items
+Contains() =check item
+
+Real world examples:
+1)Browser Back
+2) Undo Operation
+3) Function calls
+4) plates stack
+--------------------------------------------------------=-
+
+Queue
+-> Queue is a collection.
+-> Queue follows FIFO.
+-> FIFO=First In First Out.
+Important methods:
+
+Enqueue() = Add item
+Dequeue() = Remove first item
+Peek() = view first item
+Count = Number of items
+Contains() = check item
+
+Real-world examples:
+1) Ticket counter
+2) Customer service
+3) Printer queue
+4) Bank queue
+
+
+Difference- 
+ Stack	              Queue
+1)LIFO	              1) FIFO
+2)Last In First Out	  2)First In First Out
+3)Push()	         3)Enqueue()
+4)Pop()	              4)Dequeue()
+5)Peek()	          5)Peek()
+6)Browser Back	      6)Customer Queue
+7) Undo	               7)Ticket Counter
